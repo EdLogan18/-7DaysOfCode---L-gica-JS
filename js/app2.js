@@ -2,7 +2,7 @@ let linguagem
 const novasLinguagens = [ ]
 let contador = 0
 
-alert  ("Olá, como vai!!!")
+alert  ("Olá. Como vai!!!")
 
 let area = prompt("Você gostaria de estudar Front-End ou Back-End? Escolha 1 para Front-End e 2 para Back-End")
 
